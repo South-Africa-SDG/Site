@@ -79,14 +79,12 @@ frontpage_cards:
     button_label: ''
     button_link: ''
     rule_color: ''
-  - title: Lorem ipsum
-    content: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi mollis
-      cursus est sed dapibus.
+  - title: Stats SA
     include: ''
     button_label: Read more
-    button_link: https://example.com
+    button_link: https://www.statssa.gov.za
     rule_color: ''
+    content: Statistics South Africa
   - title: Nam vestibulum
     content: |
       Nam vestibulum, purus quis porttitor imperdiet, nisl sem mollis nisl, a
