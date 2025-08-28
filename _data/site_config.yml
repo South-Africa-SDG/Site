@@ -23,8 +23,8 @@ config_form_library_src: https://open-sdg.org/open-sdg-config-form/2.4.0/bundle.
 cookie_consent_form:
   enabled: false
 country:
-  name: Australia
-  adjective: Australian
+  adjective: South African
+  name: South Africa
 create_goals:
   previous_next_links: false
   goals: []
@@ -48,17 +48,17 @@ custom_js:
   - /assets/js/custom.js
 data_edit_url: data
 data_fields:
-  units: 'UNIT_MEASURE'
-  series: 'SERIES'
+  units: UNIT_MEASURE
+  series: SERIES
 date_formats: []
 disclaimer:
   phase: ''
   message: ''
   hidden: false
 email_contacts:
-  questions: test@example.com
-  suggestions: test@example.com
+  suggestions: abdoolg@statssa.gov.za
   functional: test@example.com
+  questions: sieraagdk@statssa.gov.za
 empty_metadata_placeholder: ''
 empty_metadata_placeholder_sources: ''
 environment: staging
@@ -116,7 +116,7 @@ header_language_toggle: dropdown
 hide_empty_metadata: true
 hide_single_series: true
 hide_single_unit: true
-ignored_disaggregations: 
+ignored_disaggregations:
   - UNIT_MEASURE
   - SOURCE_DETAIL
 indicator_config_form:
